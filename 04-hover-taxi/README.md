@@ -2,7 +2,7 @@
 
 One concept image, four agents, and a rule: I don't build anything myself. I only talk to agents and review what they give me back. The taxi goes from a chat image to clean references, to a model in Blender, to a hovering, flying vehicle in Unreal.
 
-**Video:** <link once published>
+**Video:** https://youtu.be/s8OvZ58tctM
 
 ## The briefs, in the order they appear
 
