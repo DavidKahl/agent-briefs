@@ -14,9 +14,9 @@ Each file has the brief itself (copy it, replace the `<placeholders>`), what it'
 
 ## Episodes
 
-| Episode | Folder | Briefs |
-|---|---|---|
-| 04 · The hover taxi: from one image to a flying taxi in Unreal | [04-hover-taxi](04-hover-taxi/) | reference coverage, clean reference set, stage switcher, hover idle |
+| Episode | Folder | Briefs | Link
+|---|---|---|---|
+| 04 · The hover taxi: from one image to a flying taxi in Unreal | [04-hover-taxi](04-hover-taxi/) | reference coverage, clean reference set, stage switcher, hover idle | https://youtu.be/s8OvZ58tctM |
 
 ## License
 
