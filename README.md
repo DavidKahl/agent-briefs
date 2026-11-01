@@ -17,7 +17,7 @@ Each file has the brief itself (copy it, replace the `<placeholders>`), what it'
 | Episode | Folder | Briefs | Link
 |---|---|---|---|
 | 04 · The hover taxi: from one image to a flying taxi in Unreal | [04-hover-taxi](04-hover-taxi/) | reference coverage, clean reference set, stage switcher, hover idle | https://youtu.be/s8OvZ58tctM |
-| 05 · The Tripo fleet: flying traffic in Unreal | [05-tripo-fleet](05-tripo-fleet/) | traffic system, vertical overtaking, cinematic review cameras | — |
+| 05 · The Tripo fleet: flying traffic in Unreal | [05-tripo-fleet](05-tripo-fleet/) | fleet generator, Unreal traffic system, cinematic review cameras | https://youtu.be/z4d0sXfJWZM |
 
 ## License
 
